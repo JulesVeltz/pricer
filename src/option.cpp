@@ -15,7 +15,7 @@ Option::Option(double maturity, double sigma, double spot, double strike, double
 {
 }
 
-double Option::bs(double d1, double d2, int t)
+double  Option::bs(double d1, double d2, int t)
 {
     return 0.0;
 }
